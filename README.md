@@ -1,8 +1,8 @@
 # Devfolio
-##Introduction
+## Introduction
 This project showcases a personal portfolio website built using HTML, CSS, and Bootstrap, designed to be responsive and aesthetically pleasing and show your skills, experience and projects.
 
-##Features
+## Features
 - **Responsive Design**: Adjusts to various screen sizes for mobile, tablet, and desktop using Bootstrap's grid system.
 - **Modern UI**: Clean and professional design suitable for a personal portfolio.
 - **Cross-Browser Compatibility**: Works on major browsers (Chrome, Firefox, Safari, Edge).
